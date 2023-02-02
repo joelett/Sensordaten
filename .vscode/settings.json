@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sensor",
+            "database": "${workspaceFolder:Sensordaten}/sqlite/database/sensor.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
